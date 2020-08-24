@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f471018.chunk.css",
-    "main.js": "/static/js/main.2c01a39e.chunk.js",
-    "main.js.map": "/static/js/main.2c01a39e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ccb42690.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ccb42690.js.map",
-    "static/css/2.1eb044a4.chunk.css": "/static/css/2.1eb044a4.chunk.css",
-    "static/js/2.87423445.chunk.js": "/static/js/2.87423445.chunk.js",
-    "static/js/2.87423445.chunk.js.map": "/static/js/2.87423445.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c8e71bb08c2b494f9dea16df26277b10.js": "/precache-manifest.c8e71bb08c2b494f9dea16df26277b10.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.1eb044a4.chunk.css.map": "/static/css/2.1eb044a4.chunk.css.map",
-    "static/css/main.9f471018.chunk.css.map": "/static/css/main.9f471018.chunk.css.map",
-    "static/js/2.87423445.chunk.js.LICENSE.txt": "/static/js/2.87423445.chunk.js.LICENSE.txt",
-    "static/media/austronat.svg": "/static/media/austronat.ba2101c6.svg",
-    "static/media/bike.svg": "/static/media/bike.7424658f.svg",
-    "static/media/logo_police.svg": "/static/media/logo_police.3c48b597.svg"
+    "main.css": "/React-Web-Coding-Challenge/static/css/main.9f471018.chunk.css",
+    "main.js": "/React-Web-Coding-Challenge/static/js/main.d799dc97.chunk.js",
+    "main.js.map": "/React-Web-Coding-Challenge/static/js/main.d799dc97.chunk.js.map",
+    "runtime-main.js": "/React-Web-Coding-Challenge/static/js/runtime-main.78331892.js",
+    "runtime-main.js.map": "/React-Web-Coding-Challenge/static/js/runtime-main.78331892.js.map",
+    "static/css/2.1eb044a4.chunk.css": "/React-Web-Coding-Challenge/static/css/2.1eb044a4.chunk.css",
+    "static/js/2.607039bc.chunk.js": "/React-Web-Coding-Challenge/static/js/2.607039bc.chunk.js",
+    "static/js/2.607039bc.chunk.js.map": "/React-Web-Coding-Challenge/static/js/2.607039bc.chunk.js.map",
+    "index.html": "/React-Web-Coding-Challenge/index.html",
+    "precache-manifest.12543806e44a5beb581aa2f79bb9bd1e.js": "/React-Web-Coding-Challenge/precache-manifest.12543806e44a5beb581aa2f79bb9bd1e.js",
+    "service-worker.js": "/React-Web-Coding-Challenge/service-worker.js",
+    "static/css/2.1eb044a4.chunk.css.map": "/React-Web-Coding-Challenge/static/css/2.1eb044a4.chunk.css.map",
+    "static/css/main.9f471018.chunk.css.map": "/React-Web-Coding-Challenge/static/css/main.9f471018.chunk.css.map",
+    "static/js/2.607039bc.chunk.js.LICENSE.txt": "/React-Web-Coding-Challenge/static/js/2.607039bc.chunk.js.LICENSE.txt",
+    "static/media/austronat.svg": "/React-Web-Coding-Challenge/static/media/austronat.ba2101c6.svg",
+    "static/media/bike.svg": "/React-Web-Coding-Challenge/static/media/bike.7424658f.svg",
+    "static/media/logo_police.svg": "/React-Web-Coding-Challenge/static/media/logo_police.3c48b597.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ccb42690.js",
+    "static/js/runtime-main.78331892.js",
     "static/css/2.1eb044a4.chunk.css",
-    "static/js/2.87423445.chunk.js",
+    "static/js/2.607039bc.chunk.js",
     "static/css/main.9f471018.chunk.css",
-    "static/js/main.2c01a39e.chunk.js"
+    "static/js/main.d799dc97.chunk.js"
   ]
 }
