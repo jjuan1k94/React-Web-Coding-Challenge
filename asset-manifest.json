@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f471018.chunk.css",
+    "main.js": "/static/js/main.2c01a39e.chunk.js",
+    "main.js.map": "/static/js/main.2c01a39e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ccb42690.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ccb42690.js.map",
+    "static/css/2.1eb044a4.chunk.css": "/static/css/2.1eb044a4.chunk.css",
+    "static/js/2.87423445.chunk.js": "/static/js/2.87423445.chunk.js",
+    "static/js/2.87423445.chunk.js.map": "/static/js/2.87423445.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c8e71bb08c2b494f9dea16df26277b10.js": "/precache-manifest.c8e71bb08c2b494f9dea16df26277b10.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.1eb044a4.chunk.css.map": "/static/css/2.1eb044a4.chunk.css.map",
+    "static/css/main.9f471018.chunk.css.map": "/static/css/main.9f471018.chunk.css.map",
+    "static/js/2.87423445.chunk.js.LICENSE.txt": "/static/js/2.87423445.chunk.js.LICENSE.txt",
+    "static/media/austronat.svg": "/static/media/austronat.ba2101c6.svg",
+    "static/media/bike.svg": "/static/media/bike.7424658f.svg",
+    "static/media/logo_police.svg": "/static/media/logo_police.3c48b597.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccb42690.js",
+    "static/css/2.1eb044a4.chunk.css",
+    "static/js/2.87423445.chunk.js",
+    "static/css/main.9f471018.chunk.css",
+    "static/js/main.2c01a39e.chunk.js"
+  ]
+}
